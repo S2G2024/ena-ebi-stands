@@ -1,5 +1,5 @@
-site_name: TEMPLATE
-edit_uri: https://github.com/bgacademy23/TEMPLATE/blob/main/docs
+site_name: ena-ebi-stands
+edit_uri: https://github.com/bgacademy23/ena-ebi-stands/blob/main/docs
 
 nav:
     - Home: README.md
