@@ -2,15 +2,13 @@
 
 #BGA24/sessions #GitPod #Standards #ENA
 
-This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgacademy.org)
+This session is part of [**S2G2024**]
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/ena-ebi-stands) 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/S2G2024/ena-ebi-stands) 
 
 ## Session Leader(s)
 
-Maira Ihsan  
-User Support Bioinformatician  
-European Nucleotide Archive, EMBL-EBI
+N/A
 
 ## Description
 
